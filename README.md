@@ -27,8 +27,8 @@ Os usuários devem ser capazes de:
 ![Screenshot do projeto](./screenshot.png) <!-- Adicione o caminho da sua screenshot -->
 
 ## Links
-- URL da solução: [Adicionar URL aqui](#)
-- URL do site ao vivo: [Adicionar URL aqui](#)
+- URL da solução: [Adicionar URL aqui](https://github.com/Lucascruz-lab/Formul-rio-de-inscri-o)
+- URL do site ao vivo: [Adicionar URL aqui](https://lucascruz-lab.github.io/Formul-rio-de-inscri-o/)
 
 ## Meu Processo
 
